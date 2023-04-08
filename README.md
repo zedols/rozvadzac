@@ -27,3 +27,6 @@ zasuvky a10A
 | zasuvka hajzel hore<br><br>(povodne tam mal byt bojler, ale je to samostatny kabel... mozno susicka jedneho dna) | 1ks | EATON PL6 16B/1 | https://ema-elektro.sk/elektromaterial/istice-a-vypinace-modularne/istice-eaton/eaton-istic-16b-1-pl6 | kabel 3x2,5 |     |
 | smrad riadenie<br><br>dovedenych 10 kablov 3x2,5 do skryne na povale, kde bude cele riadenie | 8ks | EATON PL6 16B/1 | https://ema-elektro.sk/elektromaterial/istice-a-vypinace-modularne/istice-eaton/eaton-istic-16b-1-pl6 | kabel 3x2,5 | podlahovka<br><br>klima<br><br>radiatory |
 |     | 2ks | EATON PL6 10B/1 | https://ema-elektro.sk/elektromaterial/istice-a-vypinace-modularne/istice-eaton/eaton-istic-10b-1-pl6 | kabel  3x1,5 | svetla |
+|hreben|1m|https://ema-elektro.sk/elektromaterial/istice-a-vypinace-modularne/prepojovacie-listy-k-isticom/lista-prepojovacia-g-3l-1000mm-u54-3-1303002|     |     |     |
+
+ema.elektro: 430e
